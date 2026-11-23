@@ -1,0 +1,6 @@
+# One domain per line. Subdomains are blocked automatically.
+# Edit while the app runs: changes are picked up within ~30 seconds,
+# and they also apply to links that already exist (checked on every click).
+evil-phishing-example.com
+malware-download-example.net
+free-gift-card-scam.xyz
